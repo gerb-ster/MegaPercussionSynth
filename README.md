@@ -1,3 +1,3 @@
-# Project Name
+# Mega Percussion Synth
 
-some description about this project goes here.
+A eurorack adaptation of Thomas Henry's MegaPercussionSynth
