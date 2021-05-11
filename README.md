@@ -2,7 +2,7 @@
 
 A eurorack adaptation of Thomas Henry's MegaPercussionSynth
 
-## Status
+## Status: Work in Progress
 
 - done: first schematic & board design
 - todo: breadboard and test
